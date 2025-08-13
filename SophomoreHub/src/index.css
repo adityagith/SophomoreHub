@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("./Assets/HomeBackground.jpg");
+    height:1vw;
+    width:100vw;
+}
